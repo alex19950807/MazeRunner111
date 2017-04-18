@@ -18,7 +18,7 @@ import entities.Rock;
 
 public class Game extends Canvas implements Runnable {
   //game screen size
-  public static final int WIDTH = 60;
+  public static final int WIDTH = 640;
   public static final int HEIGHT = 640;
   //Scale & size are adjustable
   public static final int SCALE = 1;
