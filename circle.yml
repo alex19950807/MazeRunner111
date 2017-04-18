@@ -15,7 +15,6 @@ general:
       - master
 
 
-
 test:
   override:
-    - "true"
+    - echo "test"
